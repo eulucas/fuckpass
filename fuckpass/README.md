@@ -1,7 +1,7 @@
-# cupp.py - Common User Passwords Profiler
+# fuckpass.py - Fuck Dictionary :)
 
  
-## About
+## Sobre
 
   The most common form of authentication is the combination of a username
   and a password or passphrase. If both match values stored within a locally
@@ -20,23 +20,23 @@
 
 
 
-## Options
+## Opções
 
-  Usage: cupp.py [OPTIONS]
+  Usage: fuckpass.py [OPTIONS]
 
-        -h      this menu
+        -h      menu
 
-        -i      Interactive questions for user password profiling
+        -i      Perguntas interativas para criação de perfil de senha de usuário
 
         -w      Use this option to profile existing dictionary,
                 or WyD.pl output to make some pwnsauce :)
 
-        -l      Download huge wordlists from repository
+        -l      Baixe enormes wordlists do repositório
 
         -a      Parse default usernames and passwords directly from Alecto DB.
                 Project Alecto uses purified databases of Phenoelit and CIRT which where merged and enhanced.
 
-        -v      Version of the program
+        -v      Versão do script
 
 
 
